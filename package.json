@@ -1,0 +1,26 @@
+{
+  "name": "to-read-or-not-read",
+  "version": "1.0.0",
+  "description": "readme file generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KianaEarly/to-read-or-not-read.git"
+  },
+  "keywords": [
+    "node.js",
+    "inquirer"
+  ],
+  "author": "Kiana Early",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KianaEarly/to-read-or-not-read/issues"
+  },
+  "homepage": "https://github.com/KianaEarly/to-read-or-not-read#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}

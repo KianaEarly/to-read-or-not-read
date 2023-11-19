@@ -58,43 +58,43 @@ function userInput () {
             },
     ]) .then (data => {
         fs.writeFileSync("README.md", `
-        # ${data.title}
+# ${data.title}
         
-        ## Description 
-        ${data.description}
+## Description 
+${data.description}
         
-        ## About the Author
-        name: __${data.yourName}__
-        > gitHubProfile: 
-        > [gitHub](https://github.com/${data.gitHubUsername})
+## About the Author
+name: __${data.yourName}__
+> gitHubProfile: 
+> [gitHub](https://github.com/${data.gitHubUsername})
         
         
-        ## Table of Contents
-        * [Installation](#installation)
-        * [Usage](#usage)
-        * [License](#license)
-        * [Contributin](#contributing)
-        * [Tests](#tests)
-        * [Questions](#questions)
+## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributin](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
         
-        ### Installation 
-        ${data.Installation}
+### Installation 
+${data.Installation}
         
-        ### Usage
-        ${data.Usage}
+### Usage
+${data.Usage}
         
-        ### License
-        ![GitHub license](https://img.shields.io/badge/license-${data.license}-blue.svg) 
-        > [For more information about Licenses please see ] (https://choosealicense.com/)
+### License
+![GitHub license](https://img.shields.io/badge/license-${data.license}-blue.svg) 
+> [For more information about Licenses please see ] (https://choosealicense.com/)
         
-        ### Contributing
-        ${data.Contributing}
+### Contributing
+${data.Contributing}
         
-        ### Tests
-        ${data.Tests}
+### Tests
+${data.Tests}
         
-        ### Questions
-        ${data.Questions}
+### Questions
+${data.Questions}
         `
         )
       console.log("fileGenerator")

@@ -1,39 +1,39 @@
 
-        # Read-Me-Generator
+# Read-Me-Generator
         
-        ## Description 
-        This will generate a readme from user input
+## Description 
+This will generate a readme from user input
         
-        ## About the Author
-        name: __Kiana Early__
+## About the Author
+name: __Kiana Early__
         > gitHubProfile: 
         > [gitHub](https://github.com/KianaEarly)
         
         
-        ## Table of Contents
-        * [Installation](#installation)
-        * [Usage](#usage)
-        * [License](#license)
-        * [Contributin](#contributing)
-        * [Tests](#tests)
-        * [Questions](#questions)
+## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributin](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
         
-        ### Installation 
-        npm i
+### Installation 
+npm i
         
-        ### Usage
-        node index
+### Usage
+node index
         
-        ### License
-        ![GitHub license](https://img.shields.io/badge/license-undefined-blue.svg) 
-        > [For more information about Licenses please see ] (https://choosealicense.com/)
+### License
+![GitHub license](https://img.shields.io/badge/license-undefined-blue.svg) 
+> [For more information about Licenses please see ] (https://choosealicense.com/)
         
-        ### Contributing
-        Please do not contribute
+### Contributing
+Please do not contribute
         
-        ### Tests
-        No tests 
+### Tests
+No tests 
         
-        ### Questions
-        kiana.sambursky@gmail.com
+### Questions
+kiana.sambursky@gmail.com
         

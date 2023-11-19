@@ -7,8 +7,8 @@ https://drive.google.com/file/d/1595335vZbGeP9F4QW28GodGTuZjWPpf2/view
         
 ## About the Author
 name: Kiana Early
-        > gitHubProfile: 
-        > [gitHub](https://github.com/KianaEarly)
+gitHubProfile: 
+[gitHub](https://github.com/KianaEarly)
         
         
 ## Table of Contents

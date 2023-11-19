@@ -1,6 +1,5 @@
 const inquirer  = require ("inquirer")
 const fs = require ("fs")
-const generateReadMe = require ("./library/generatereadme")
 
 function userInput () {
     inquirer.prompt([

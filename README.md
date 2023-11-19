@@ -1,13 +1,13 @@
 
-        # bjfdhkfjew
+        # Read-Me-Generator
         
         ## Description 
-        hioejhwijew
+        This will generate a readme from user input
         
         ## About the Author
-        name: __njfnew__
+        name: __Kiana Early__
         > gitHubProfile: 
-        > [gitHub](https://github.com/jiejwf)
+        > [gitHub](https://github.com/KianaEarly)
         
         
         ## Table of Contents
@@ -19,20 +19,20 @@
         * [Questions](#questions)
         
         ### Installation 
-        jkehjkewnd
+        npm i
         
         ### Usage
-        nfjkehkjew
+        node index
         
         ### License
         ![GitHub license](https://img.shields.io/badge/license-undefined-blue.svg) 
         > [For more information about Licenses please see ] (https://choosealicense.com/)
         
         ### Contributing
-        njfewhjfiew
+        Please do not contribute
         
         ### Tests
-        bjkefhwekf
+        No tests 
         
         ### Questions
         kiana.sambursky@gmail.com

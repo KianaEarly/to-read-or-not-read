@@ -1,10 +1,10 @@
 # jousting-jamboree
         
 ## Description 
-To generate a readme based off user input
+This project allows users to joust and earn points
         
 ## About the Author
-name: __Kiana Early __
+name: __Kiana Early__
 > gitHubProfile: 
 > [gitHub](https://github.com/KianaEarly)
         
@@ -25,7 +25,7 @@ node index
         
 ### License
 ![GitHub license](https://img.shields.io/badge/license-undefined-blue.svg) 
-> [For more information about Licenses please see ] (https://choosealicense.com/)
+> For more information about Licenses please see: https://choosealicense.com/
         
 ### Contributing
 Please do not contribute

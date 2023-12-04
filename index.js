@@ -85,7 +85,7 @@ ${data.Usage}
         
 ### License
 ![GitHub license](https://img.shields.io/badge/license-${data.license}-blue.svg) 
-> [For more information about Licenses please see ] (https://choosealicense.com/)
+> For more information about Licenses please see: https://choosealicense.com/
         
 ### Contributing
 ${data.Contributing}

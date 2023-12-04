@@ -1,26 +1,12 @@
-<<<<<<< HEAD
-# Read-Me-Generator
+# jousting-jamboree
         
 ## Description 
-This will generate a readme from user input
-https://drive.google.com/file/d/1595335vZbGeP9F4QW28GodGTuZjWPpf2/view 
+To generate a readme based off user input
         
 ## About the Author
-name: Kiana Early
-gitHubProfile: 
-[gitHub](https://github.com/KianaEarly)
-=======
-
-# to-read-or-not-read
-        
-## Description 
-To generate a readme off user input
-        
-## About the Author
-name: __Kiana Sambursky-Early__
+name: __Kiana Early __
 > gitHubProfile: 
 > [gitHub](https://github.com/KianaEarly)
->>>>>>> d729870 (added sample readme and cleaned up line 88 of index)
         
         
 ## Table of Contents
@@ -39,7 +25,7 @@ node index
         
 ### License
 ![GitHub license](https://img.shields.io/badge/license-undefined-blue.svg) 
-> For more information about Licenses please see:  https://choosealicense.com/
+> [For more information about Licenses please see ] (https://choosealicense.com/)
         
 ### Contributing
 Please do not contribute
